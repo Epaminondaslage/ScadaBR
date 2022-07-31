@@ -3,7 +3,7 @@
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
-<td style="width: 50%;"><img src="/img/scadaBR.png" width="50%" /></td>
+<td style="width: 50%;"><img src="https://github.com/Epaminondaslage/Automacao-industrial-e-residencial-Ecossistema-didatico/blob/main/img/em%20constru%C3%A7%C3%A3o.jpg" width="50%" /></td>
 
 # Índice 
 
